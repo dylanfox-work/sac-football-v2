@@ -1,4 +1,4 @@
-<img src="assets/logo.webp" alt="SAC Football V2 logo" width="96" align="right">
+<img src="assets/logo.webp" alt="SAC Football V2 logo" width="72" align="right">
 
 # SAC Football V2
 
@@ -6,7 +6,9 @@
 
 [Launch SAC Football](https://fox-ffl-simulations.pages.dev) · [View Dylan's portfolio](https://dylanfox.work)
 
-![SAC Football V2 gameplay interface](assets/preview.webp)
+<p><img src="assets/preview.webp" alt="SAC Football V2 gameplay interface with field, play-calling controls, and game state" width="860"></p>
+
+<table><tr><td><img src="assets/logo.webp" alt="" width="34"></td><td><strong>SAC Football V2</strong></td></tr></table>
 
 ## The product
 
